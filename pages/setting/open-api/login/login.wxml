@@ -1,0 +1,2 @@
+<!--pages/setting/open-api/login/login.wxml-->
+<button type='primary' bindtap='onTap'>用户登录</button>

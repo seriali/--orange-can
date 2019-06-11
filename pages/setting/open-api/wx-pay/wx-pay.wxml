@@ -1,0 +1,2 @@
+<!--pages/setting/open-api/wx-pay/wx-pay.wxml-->
+<button type='primary' bindtap='onTap'>微信支付</button>

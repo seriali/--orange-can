@@ -1,0 +1,8 @@
+<!--pages/welcomes/welcomes.wxml-->
+<view class='container'>
+  <image class='avatar' src='/images/avatar/avatar-1.png'></image>
+  <text class='motto'>Hello,橘子罐头</text>
+  <view catchtap='onTapJump' class='journey-container'>
+    <text class='journey'>开始小程序大门</text>
+  </view>
+</view>
